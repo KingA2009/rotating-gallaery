@@ -6,7 +6,7 @@ body {
     align-items: center;
     text-align: center;
     height: 100vh;
-    background: black;
+    background: rgb(228, 14, 14);
     overflow: hidden;
   }
   
@@ -43,7 +43,7 @@ body {
     position: absolute;
     bottom: -80px;
     background: crimson;
-    color: #fff;
+    color: #161414;
     border: none;
     padding: 10px 20px;
     border-radius: 5px;
